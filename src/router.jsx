@@ -12,7 +12,7 @@ import Layout from "./Layout";
 
 import { loader as landingLoader } from "./pages/Landing";
 import { loader as singleCocktailLoader } from "./pages/Cocktail";
-import { action as newsletterAction } from "./pages/NewsLetter";
+import { action as newsletterAction } from "./pages/Newsletter";
 
 export const routes = {
   landing: {
